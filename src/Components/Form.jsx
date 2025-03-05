@@ -50,7 +50,7 @@ const Form = () => {
       setStep(1);
     }
   }
-  // Form 
+  // Form Control
   const [Form, setForm] = useState({name: "", gender: "", dob: "", phone: "", email: "", username: "", password: ""})
   // Input Handler
   const inputHandler = (e) => {

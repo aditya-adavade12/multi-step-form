@@ -1,10 +1,10 @@
-import React from 'react'
-import Form from './Components/Form'
+import React from 'react';
+import Multi_Step from './Components/Multi_Step';
 
 const App = () => {
   return (
     <div>
-      <Form />
+      <Multi_Step />
     </div>
   )
 }
